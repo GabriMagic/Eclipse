@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<!DOCTYPE Informe SYSTEM "Ramos_Cozzi_Gabriel_resp1.dtd">
+
+<!-- Debes incluir al menos: 
+[*]dos elementos sección, 
+[*]un elemento resumen, 
+[*]un ejemplo, 
+[*]una nota, 
+[*]una lista, 
+[*]un parrafo, 
+[*]un código
+[*]una clave. -->
+
+<Informe>
+	<Titulo>Cubierta Pabellon</Titulo>
+			<seccion>
+				<Titulo>Techo</Titulo>
+				<parrafo>Cubierta antilluvia</parrafo>
+				<subseccion>
+					<Titulo>Obras</Titulo>
+					<Nota>10</Nota>
+					<Clave>$"$¡G5bb/%</Clave>
+				</subseccion>
+			</seccion>
+	<Resumen>
+		<Titulo>Proyecto nueva cubierta</Titulo>
+		<Lista>
+			<Elem>Acero</Elem>
+			<Elem>Cemento</Elem>
+			<Elem>Agua</Elem>
+			<Elem>Herramientas</Elem>
+		</Lista>
+	</Resumen>
+		
+			<seccion>
+				<Titulo>
+					<Codigo>AX-2344</Codigo>
+				</Titulo>
+				<Ejemplo>La alntigua cubierta necesita reemplazarse</Ejemplo>
+				<subseccion>
+					<Titulo>Ejemplo:</Titulo>
+					<Ejemplo>Forma de tortuga</Ejemplo>
+				</subseccion>
+			</seccion>
+</Informe>
+
+
+
+
